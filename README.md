@@ -22,4 +22,8 @@
 
 ## Programming a guessing game
 
-### 
+## Common Programming Concepts
+### Variables:
+- Variables are immutable by default. Can be made mutable by writing mut keyword before variable name.
+- Constants are declared using const keyword. For every const declaration data type must be specified.
+- For naming conventions, const variable names must be in uppercase with _ in between for multi word.
